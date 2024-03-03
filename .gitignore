@@ -1,0 +1,7 @@
+/*
+!.gitignore
+
+!dist/
+!dist/assets/
+!dist/.htaccess
+!dist/_redirects
